@@ -1,0 +1,8 @@
+node_modules/
+katex/
+_slides/
+sizes.json
+cheatsheet.html
+cheatsheet.pdf
+dump.txt
+__pycache__/
